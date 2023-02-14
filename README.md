@@ -10,4 +10,7 @@
 
 [01 - Що таке Playwright. Вступ](https://www.youtube.com/watch?v=VSd4lMxXft4)
 
+[02 - Як встановити playwright. Перший тест](https://www.youtube.com/watch?v=IZ6nAS7s-gQ)
+
 #### Список пул-реквестів: 
+[02 - Як встановити playwright. Перший тест](https://github.com/Art-auto/playwright-tutorial-ua/pull/1)
