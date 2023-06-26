@@ -12,5 +12,9 @@
 
 [02 - Як встановити playwright. Перший тест](https://www.youtube.com/watch?v=IZ6nAS7s-gQ)
 
+[03 - Codegen. Генерація тестів автоматично](https://www.youtube.com/watch?v=dtOFUAUXhas)
+
 #### Список пул-реквестів: 
 [02 - Як встановити playwright. Перший тест](https://github.com/Art-auto/playwright-tutorial-ua/pull/1)
+
+[03 - Codegen. Генерація тестів автоматично](https://github.com/Art-auto/playwright-tutorial-ua/pull/2)
